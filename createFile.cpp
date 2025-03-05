@@ -27,6 +27,7 @@ public:
 };
 int main()
 {
+    Solution s;
     cout << "hello";
     system("pause");
     return 0;
